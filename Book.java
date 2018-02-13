@@ -24,8 +24,8 @@ public class Book
         this.releaseYear = releaseYear;
     }
     
-    public String getTitle ()
+    public String getBookInformation()
     {
-        return this.title;
+        return this.title + ", " + this.author + ", " + this.publisher + ", " + this.genre + ", " + this.releaseYear;
     }
 }

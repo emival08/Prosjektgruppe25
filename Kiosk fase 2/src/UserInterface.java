@@ -91,7 +91,16 @@ public class UserInterface
             {
                 System.out.println("Search book by title: ");
                 String title = scanner.nextLine();
-                registry.findBookByTitle(title);
+                Book foundBook = registry.findBookByTitle(title);
+
+                if(foundBook == null)
+                {
+                    System.out.println("There is no book by that name.");
+                }
+                else
+                {
+                    System.out.println("Found book: " + title);
+                }
                 break;
             }
             case "5":

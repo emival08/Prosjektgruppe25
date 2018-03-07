@@ -29,7 +29,7 @@ public class Book
      */
     public String getBookInformation()
     {
-        return "Title: " + this.title + ", " + "Author: " + this.author + ", " + "Publisher: " + this.publisher + ", " + "Genre: " + this.genre + ", " + "Release Year: " + this.releaseYear;
+        return "\nTitle: " + this.title + "\nAuthor: " + this.author + "\nPublisher: " + this.publisher + "\nGenre: " + this.genre + "\nRelease Year: " + this.releaseYear;
     }
     
     /**

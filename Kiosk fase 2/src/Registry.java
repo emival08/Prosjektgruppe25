@@ -56,7 +56,7 @@ public class Registry
      * Removes the book with a title matching the title given by the parameter from the book library.
      * The title being removed will be returned by the method.
      * 
-     * @param Give the title of the book to remove.
+     * @param //write the title of the book to remove.
      */
     public Book removeBookByTitle(String title)
     {

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Registry
+comment1.params=
+comment1.target=Registry()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ the\ class\ "Registry".\r\n
+comment2.params=book
+comment2.target=void\ addNewBook(Book)
+comment2.text=\r\n\ Adds\ a\ new\ book\ to\ the\ registry.\r\n
+comment3.params=
+comment3.target=void\ listAllBooks()
+comment3.text=\r\n\ Lists\ all\ books\ in\ the\ registry\ by\ the\ order\ of\ the\ parameters.\r\n
+comment4.params=title
+comment4.target=Book\ findBookByTitle(java.lang.String)
+comment4.text=\r\n\ Find\ and\ returns\ the\ book\ matching\ the\ parameter\ of\ the\ method.\r\n\ If\ there\ are\ no\ titles\ matching\ the\ parameter,\ then\ it\ returns\ "null".\r\n
+comment5.params=title
+comment5.target=Book\ removeBookByTitle(java.lang.String)
+comment5.text=\r\n\ Removes\ the\ book\ with\ a\ title\ matching\ the\ title\ given\ by\ the\ parameter\ from\ the\ book\ library.\r\n\ The\ title\ being\ removed\ will\ be\ returned\ by\ the\ method.\r\n\ \r\n\ @param\ //write\ the\ title\ of\ the\ book\ to\ remove.\r\n
+comment6.params=
+comment6.target=boolean\ isEmpty()
+numComments=7

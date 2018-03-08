@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=UserInterface
+comment0.text=\r\n\ \r\n\ Interact\ with\ the\ user\ and\ makes\ the\ user\ write\ inputs.\r\n\ \r\n\r\n\ @author\ (Pernille,\ Emil\ og\ \u00D8rjan)\r\n\ @version\ (Version\ nummer\ 0.1)\r\n
+comment1.params=
+comment1.target=UserInterface()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ UserInterface\r\n
+comment2.params=
+comment2.target=void\ printWelcome()
+comment2.text=\r\n\ Prints\ welcome\ meny\r\n
+comment3.params=
+comment3.target=void\ startupSequence()
+comment3.text=\r\n\ Initiates\ the\ program\r\n
+comment4.params=
+comment4.target=void\ processCommand()
+comment4.text=\r\n\ Takes\ input\ from\ the\ user\ and\ do\ that\ task\ refefered\ to\ the\ number\ the\ user\ picks.\ \r\n\ If\ the\ users\ inputs\ any\ other\ thing\ than\ numbers\ from\ 1\ to\ 5\ the\ switchcase\ runs\ the\r\n\ default.\ \r\n\ \r\n\ \r\n
+numComments=5

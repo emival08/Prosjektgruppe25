@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Media
+comment0.text=\r\n\ Classifies\ a\ book.\r\n\r\n\ @author\ (Pernille,\ Emil\ og\ \u00D8rjan)\r\n\ @version\ (Version\ nummer\ 0.1)\r\n\r\n
+comment1.params=title\ author\ publisher\ edition
+comment1.target=Media(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=
+comment3.target=java.lang.String\ getAuthor()
+comment4.params=
+comment4.target=java.lang.String\ getPublisher()
+comment5.params=
+comment5.target=java.lang.String\ getReleaseDate()
+numComments=6

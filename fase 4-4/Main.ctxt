@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ \r\n\ \r\n\ Initiates\ the\ startup\ sequence\ of\ the\ program.\ \r\n\ \r\n\r\n\ @author\ (Pernille,\ Emil\ og\ \u00D8rjan)\r\n\ @version\ (Version\ 0.1)\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

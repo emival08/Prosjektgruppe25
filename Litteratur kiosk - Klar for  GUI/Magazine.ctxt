@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Magazine
+comment0.text=\n\ Classifies\ a\ magazine.\n\n\ @author\ (Pernille,\ Emil\ og\ \u00D8rjan)\n\ @version\ (Version\ nummer\ 0.1)\n\n
+comment1.params=title\ author\ publisher\ releaseDate\ edition
+comment1.target=Magazine(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getReleaseDate()
+comment3.params=
+comment3.target=java.lang.String\ getLiteratureInformation()
+numComments=4

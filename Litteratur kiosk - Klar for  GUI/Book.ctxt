@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\n\ Classifies\ a\ book.\n\n\ @author\ (Pernille,\ Emil\ og\ \u00D8rjan)\n\ @version\ (Version\ nummer\ 0.1)\n\n
+comment1.params=title\ author\ publisher\ genre\ releaseYear\ edition
+comment1.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Book.\n
+comment2.params=
+comment2.target=java.lang.String\ getBookInformation()
+comment2.text=\n\ Returns\ a\ formatted\ string\ containing\ all\ the\ details\ about\ the\ book.\n
+comment3.params=
+comment3.target=java.lang.String\ getLiteratureInformation()
+comment4.params=
+comment4.target=java.lang.String\ getReleaseYear()
+comment5.params=
+comment5.target=java.lang.String\ getGenre()
+numComments=6

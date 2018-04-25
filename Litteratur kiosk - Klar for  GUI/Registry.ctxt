@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Registry
+comment0.text=\n\ \n\ Control-class\ that\ maintains\ the\ registry\ for\ literature.\n\ \n\n\ @author\ (Pernille,\ Emil\ og\ \u00D8rjan)\n\ @version\ (Version\ nummer\ 0.1)\n
+comment1.params=
+comment1.target=Registry()
+comment1.text=\n\ Constructor\ for\ objects\ of\ the\ class\ "Registry".\n
+comment2.params=literature
+comment2.target=void\ addNewLiterature(Literature)
+comment2.text=\n\ Adds\ a\ new\ literature\ to\ the\ registry\n
+comment3.params=
+comment3.target=java.util.Iterator\ getIterator()
+comment4.params=
+comment4.target=void\ listAllLiterature()
+comment4.text=\n\ List\ all\ the\ magazines\ in\ the\ library\n
+comment5.params=title
+comment5.target=Literature\ findLiteratureByTitle(java.lang.String)
+comment5.text=\n\ Find\ and\ returns\ the\ book\ matching\ the\ parameter\ of\ the\ method.\n\ If\ there\ are\ no\ titles\ matching\ the\ parameter,\ then\ it\ returns\ "null".\n
+comment6.params=title
+comment6.target=Literature\ removeLiteratureByTitle(java.lang.String)
+comment6.text=\n\ Removes\ the\ book\ with\ a\ title\ matching\ the\ title\ given\ by\ the\ parameter\ from\ the\ book\ library.\n\ The\ title\ being\ removed\ will\ be\ returned\ by\ the\ method.\n\ \n\ @param\ //write\ the\ title\ of\ the\ book\ to\ remove.\n
+comment7.params=
+comment7.target=boolean\ literatureLibraryIsEmpty()
+numComments=8

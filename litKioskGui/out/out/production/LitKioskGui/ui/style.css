@@ -1,0 +1,56 @@
+scene {
+    -fx-background-color: rgb(199, 243, 255);
+    -fx-min-width: 605px;
+    -fx-max-width: 605px;
+    -fx-pref-width: 605px;
+}
+
+.hText,
+.lText,
+.tText{
+    -fx-font-family: "Helvetica Neue";
+    -fx-font-size: 20px;
+    -fx-font-weight: bolder;
+}
+
+Button {
+    -fx-font-family: "Helvetica Neue";
+    -fx-border-width: 0;
+    -fx-background-color: rgba(51, 171, 238, 0.52);
+    /*-fx-start-margin: 10px;
+    -fx-end-margin: 5px;*/
+    -fx-min-width: 200px;
+    -fx-max-width: 200px;
+    -fx-pref-width: 200px;
+}
+
+Button:hover {
+    -fx-background-color: #f5fff2;
+}
+
+.edBtn {
+    -fx-font-family: "Helvetica Neue";
+    -fx-border-width: 0;
+    -fx-background-color: rgba(187, 198, 225, 0.43);
+    -fx-min-width: 200px;
+    -fx-max-width: 200px;
+    -fx-pref-width: 200px;
+    -fx-border-radius: 0 0 0 0;
+    -fx-background-radius: 0 0 0 0;
+}
+
+.edBtn:hover {
+    -fx-background-color: rgba(178, 177, 225, 0.43);
+}
+
+.bookView {
+    -fx-background-color: #d4e4ff;
+    -fx-pref-width: 200px;
+    -fx-min-width: 200px;
+}
+
+
+.table {
+
+}
+

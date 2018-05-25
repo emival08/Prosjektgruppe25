@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ The\ Main-class\ of\ the\ application.\ This\ class\ only\ holds\ the\ main()-method\r\n\ to\ start\ the\ application.\r\n\r\n\ @author\ asty\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ starting\ point\ for\ the\ application.\ <code>main</code>\ creates\ an\r\n\ object\ instance\ of\ the\ {@link\ SportApplicationUI}\ and\ calls\ the\r\n\ <code>start</code>\ method\ of\ the\ class.\r\n\r\n\ @param\ args\ Command\ line\ arguments.\ This\ application\ takes\ non.\r\n
+comment2.params=
+comment2.target=Main()
+comment2.text=\r\n\ Make\ the\ constructor\ private\ to\ avoid\ accidental\ creation\ of\r\n\ an\ object\ instance\ of\ this\ class.\r\n
+numComments=3

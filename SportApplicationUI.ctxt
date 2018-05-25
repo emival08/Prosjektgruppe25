@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SportApplicationUI
+comment0.text=\r\n\ Makes\ up\ the\ user\ interface\ (text\ based)\ of\ the\ application.\ Responsible\ for\r\n\ the\ part\ of\ user\ interaction\ related\ to\ the\ menu,\ like\ displaying\ the\ menu,\r\n\ and\ getting\ the\ choice\ from\ the\ user.\ When\ the\ user\ have\ selected\ which\ menu\r\n\ item\ he/she\ would\ like\ to\ have\ executed,\ the\ execution\ is\r\n\ <strong>delegated</strong>\ to\ the\ object\ of\ class\r\n\ <code>SportApplication</code>.\r\n\r\n\ @author\ asty\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=SportApplicationUI()
+comment1.text=\r\n\ Creates\ an\ instance\ of\ the\ User\ interface.\ An\r\n\ instance\ of\ the\ SportApplication\ is\ created,\ and\ initialized.\r\n
+comment2.params=
+comment2.target=void\ start()
+comment2.text=\r\n\ Starts\ the\ application\ by\ showing\ the\ menu\ and\ retrieving\ input\ from\ the\r\n\ user.\r\n
+comment3.params=
+comment3.target=int\ showMenu()
+comment3.text=\r\n\ Displays\ the\ menu\ to\ the\ user,\ and\ waits\ for\ the\ users\ input.\ The\ user\ is\r\n\ expected\ to\ input\ an\ integer\ between\ 1\ and\ the\ max\ number\ of\ menu\ items.\r\n\ If\ the\ user\ inputs\ anything\ else,\ an\ InputMismatchException\ is\ thrown.\r\n\ The\ method\ returns\ the\ valid\ input\ from\ the\ user.\r\n\r\n\ @return\ the\ menu\ number\ (between\ 1\ and\ max\ menu\ item\ number)\ provided\ by\r\n\ the\ user.\r\n\ @throws\ InputMismatchException\r\n
+numComments=4

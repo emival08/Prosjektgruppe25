@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SportApplication
+comment0.text=\r\n\ A\ Sports\ administration\ system.\ \r\n\ This\ interface\ defines\ the\ functionality\ required\r\n\ from\ the\ sports\ system.\ It\ is\ expected\ that\ a\ class\ implementing\r\n\ this\ interface,\ implements\ all\ the\ methods\ defined\ in\ this\ interface.\r\n\ \r\n\ <p>This\ interface\ and\ the\ class\ that\ implements\ it,\ is\ to\ be\ considered\ as\r\n\ part\ of\ the\ <b>user\ interface</b>.\ Hence\ it\ is\ natural\ and\ accepted\ to\ have\ \r\n\ code\ that\ interacts\ with\ the\ user\ in\ the\ class\ implementing\ this\ interface.\r\n\r\n\ @author\ asty\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ init()
+comment1.text=\r\n\ Initialize\ the\ Sports-application.\r\n
+comment2.params=
+comment2.target=void\ registerAthlete()
+comment2.text=\r\n\ Register\ an\ Athlete\ who\ will\ be\ participating\ in\ the\ race.\r\n
+comment3.params=
+comment3.target=void\ registerResult()
+comment3.text=\r\n\ Register\ the\ result\ of\ an\ Athlete\ having\ completed\ the\ race.\r\n
+comment4.params=
+comment4.target=void\ listCompetitors()
+comment4.text=\r\n\ List\ all\ competitors/athletes\ registered\ for\ the\ race.\r\n
+comment5.params=
+comment5.target=void\ showResult()
+comment5.text=\r\n\ Show\ the\ result\ of\ the\ race,\ sorted\ by\ the\ place\ achieved\ in\ the\ race.\r\n
+numComments=6

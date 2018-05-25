@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SportApplicationImpl
+comment0.text=\r\n\ Represents\ the\ SportApplication.\ The\ class\ is\ a\ delegate\ for\ the\ main\r\n\ application\ and\ the\ menu-system.\ Any\ functions\ triggered\ by\ a\ menu\ selection\r\n\ leads\ to\ a\ call\ to\ one\ of\ the\ methods\ in\ this\ class\ (via\ the\r\n\ SportApplication\ interface).\r\n\r\n\ @author\ asty\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=void\ init()
+comment2.params=
+comment2.target=void\ registerAthlete()
+comment3.params=
+comment3.target=void\ registerResult()
+comment4.params=
+comment4.target=void\ listCompetitors()
+comment5.params=
+comment5.target=void\ showResult()
+comment6.params=
+comment6.target=void\ fillRegistersWithDataForTesting()
+comment6.text=\r\n\ A\ helper\ method\ that\ fills\ the\ register(s)\ with\ some\r\n\ data\ for\ testing\ purposes.\r\n
+comment7.params=athlete
+comment7.target=void\ showAthleteDetails(Athlete)
+numComments=8

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AthleteRegister
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AthleteRegister\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=AthleteRegister()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ AthleteRegister\r\n
+comment2.params=athlete
+comment2.target=void\ addNewAthlete(Athlete)
+comment3.params=raceresult
+comment3.target=void\ addNewResult(RaceResult)
+comment4.params=
+comment4.target=void\ listAllAthletes()
+comment5.params=
+comment5.target=java.util.Iterator\ getIterator()
+comment6.params=name
+comment6.target=Athlete\ findAthleteByName(java.lang.String)
+comment7.params=
+comment7.target=void\ listAllResults()
+numComments=8

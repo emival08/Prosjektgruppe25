@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Athlete
+comment0.text=\r\n\ Holds\ all\ necessary\ information\ about\ a\ athlete.\r\n\r\n\ @author\ (\u00D8T)\r\n\ @version\ (1337)\r\n
+comment1.params=name\ age
+comment1.target=Athlete(java.lang.String,\ int)
+comment1.text=\r\n\ Create\ an\ instance\ of\ athlete.\r\n\ \r\n\ @param\ name,\ the\ name\ of\ the\ athlete\r\n\ @param\ age,\ the\ age\ of\ the\ athlete\r\n\ @param\ startNumber,\ the\ startnumber\ to\ the\ athlete\r\n\ @param\ personalBest,\ the\ personal\ best\ lap\ record\ to\ the\ athlete\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Returns\ the\ name\ of\ the\ athlete\r\n\ @return\ the\ name\ of\ the\ athlete\r\n
+comment3.params=
+comment3.target=int\ getAge()
+comment3.text=\r\n\ Returns\ the\ age\ of\ the\ athlete\r\n\ @return\ the\ age\ of\ the\ athlete\r\n
+comment4.params=
+comment4.target=int\ getStartNumber()
+comment4.text=\r\n\ Returns\ the\ startnumber\ to\ the\ athlete\r\n\ @return\ the\ startnumber\ to\ the\ athlete\r\n
+comment5.params=
+comment5.target=double\ personalBest()
+comment5.text=\r\n\ Returns\ the\ personalbest\ to\ the\ athlete\ \r\n\ @return\ the\ personalbest\ to\ the\ athlete\r\n
+comment6.params=startNumber
+comment6.target=void\ setStartNumber(int)
+comment6.text=\r\n\ Sets\ the\ starnumber\ of\ the\ athlete.\ Must\ be\ a\ posivite\ integer\ starting\ from\ 1.\ \r\n\ \r\n\ @param\ Startnumber\ of\ the\ athlete\r\n
+comment7.params=personalBest
+comment7.target=void\ setNewPersonalBest(double)
+comment7.text=\r\n\ Set\ new\ personalbest\ to\ the\ athlete\r\n\ @param\ the\ new\ personalbest\ to\ the\ athlete\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

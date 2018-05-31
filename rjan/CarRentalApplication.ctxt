@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CarRentalApplication
+comment0.text=\r\n\ A\ Lottery\ system.\ This\ interface\ defines\ the\ functionality\ required\r\n\ from\ the\ car\ rental\ system.\ It\ is\ expected\ that\ a\ class\ implementing\r\n\ this\ interface,\ implements\ all\ the\ methods\ defined\ in\ this\ interface.\r\n\ \r\n\ <p>This\ interface\ and\ the\ class\ that\ implements\ it,\ it\ to\ be\ considered\ as\r\n\ part\ of\ the\ <b>user\ interface</b>.\ Hence\ it\ is\ natural\ and\ accepted\ to\ have\ \r\n\ code\ that\ interacts\ with\ the\ user\ in\ the\ class\ implementing\ this\ interface.\r\n\r\n\ @author\ asty\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ init()
+comment1.text=\r\n\ Initialize\ the\ CarRental-application.\r\n
+comment2.params=
+comment2.target=void\ doAddCarToCarRegister()
+comment2.text=\r\n\ Register\ a\ new\ car\ to\ the\ car\ pool,\ making\ it\ available\ for\ renting.\r\n
+comment3.params=
+comment3.target=void\ doMakeReservation()
+comment3.text=\r\n\ Make\ a\ reservation\ for\ a\ car\ (ie\ rent\ a\ car).\r\n
+comment4.params=
+comment4.target=void\ doListRentalsByCar()
+comment4.text=\r\n\ List\ all\ rentals\ done\ of\ one\ spesific\ car.\r\n
+comment5.params=
+comment5.target=void\ doListAllCars()
+comment5.text=\r\n\ List\ all\ cars\ in\ the\ car\ register.\r\n
+comment6.params=
+comment6.target=void\ doListAllRentals()
+comment6.text=\r\n\ List\ all\ rentals\ registered,\ and\ provide\ a\ total\ sum\ of\ the\ cost/\r\n\ income\ from\ all\ the\ rentals.\r\n
+numComments=7

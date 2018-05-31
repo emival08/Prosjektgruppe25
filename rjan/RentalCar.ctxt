@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=RentalCar
+comment0.text=\r\n\ A\ car\ to\ be\ rented\ out\ to\ a\ customer.\ Holds\ all\ necessary\ information\ of\ the\ car.\r\n\r\n\ @author\ (\u00D8rjan\ S.T)\r\n\ @version\ (1337)\r\n
+comment1.params=make\ model\ modelYear\ licensePlate
+comment1.target=RentalCar(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RentalCar\r\n\ Create\ an\ instance\ of\ RentalCar.\r\n\ \r\n\ @param\ make,\ the\ make\ of\ the\ car\r\n\ @param\ model,\ the\ model\ of\ the\ car\r\n\ @param\ modelYear,\ the\ modelyear\ of\ the\ car\r\n\ @param\ licensePlate,\ the\ licenseplate\ number\ of\ the\ car.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getMake()
+comment2.text=\r\n\ Return\ the\ make\ of\ the\ car\r\n\ \r\n\ @returns\ the\ make\ of\ the\ car.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getModel()
+comment3.text=\r\n\ returns\ the\ model\ of\ the\ car.\ \r\n\r\n@return\ the\ model\ of\ the\ chosen\ car.\ \r\n
+comment4.params=
+comment4.target=int\ getModelYear()
+comment4.text=\r\n\ returns\ the\ modelYear\ of\ the\ car.\ \r\n\ \r\n\ @return\ the\ modelyear\ of\ the\ car.\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getLicensePlate()
+comment5.text=\r\n\ returns\ the\ licenseplate\ number\ of\ the\ car.\r\n\ \r\n\ @return\ the\ licenseplate\ number\ of\ the\ car.\r\n
+comment6.params=
+comment6.target=int\ getMilage()
+comment7.params=milage
+comment7.target=void\ setMilage(int)
+comment7.text=\r\n\ sets\ the\ milage\ of\ the\ car\r\n\ \r\n\ @param\ the\ milage\ of\ the\ car.\r\n
+numComments=8

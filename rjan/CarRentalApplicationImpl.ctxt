@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CarRentalApplicationImpl
+comment0.text=\r\n\ Represents\ the\ CarRentalApplication.\ The\ class\ is\ a\ delegate\ for\ the\ main\r\n\ application\ and\ the\ menu-system.\ Any\ functions\ triggered\ by\ a\ menu\ selection\r\n\ leads\ to\ a\ call\ to\ one\ of\ the\ methods\ in\ this\ class\ (via\ the\r\n\ CarRentalApplication\ interface).\r\n\r\n\ @author\ asty\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=void\ init()
+comment2.params=
+comment2.target=void\ doAddCarToCarRegister()
+comment3.params=car
+comment3.target=void\ showCarDetails(RentalCar)
+comment4.params=
+comment4.target=void\ doMakeReservation()
+comment5.params=
+comment5.target=void\ doListRentalsByCar()
+comment6.params=
+comment6.target=void\ doListAllCars()
+comment7.params=
+comment7.target=void\ doListAllRentals()
+comment8.params=
+comment8.target=void\ fillRegistersWithDataForTesting()
+comment8.text=\r\n\ A\ helper\ method\ that\ fills\ the\ register(s)\ with\ some\r\n\ data\ for\ testing\ purposes.\r\n
+numComments=9

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=RentalCarRegister
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RentalCarRegister\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RentalCarRegister()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RentalCarRegister\r\n
+comment2.params=car
+comment2.target=void\ addCar(RentalCar)
+comment3.params=licensePlate
+comment3.target=boolean\ removeCar(java.lang.String)
+comment4.params=licensePlate
+comment4.target=RentalCar\ findCar(java.lang.String)
+comment5.params=
+comment5.target=int\ getNumberOfCars()
+comment5.text=\r\n\ Returns\ the\ number\ of\ cars\ in\ the\ register.\r\n\r\n\ @return\ the\ number\ of\ cars\ in\ the\ register.\r\n
+comment6.params=
+comment6.target=java.util.Iterator\ getIterator()
+comment6.text=\r\n\ Returns\ an\ iterator\ over\ the\ cars\ in\ the\ register.\r\n\r\n\ @return\ an\ iterator\ over\ the\ cars\ in\ the\ register.\r\n
+comment7.params=
+comment7.target=void\ fillRegisterWithCars()
+comment7.text=\r\n\ Helper-method\ used\ during\ development.\ The\ method\ fills\ the\ register\r\n\ with\ some\ cars.\r\n
+comment8.params=
+comment8.target=boolean\ isEmpty()
+numComments=9
